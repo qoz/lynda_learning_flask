@@ -3,17 +3,11 @@
 __pycache__
 myvenv
 db.sqlite3
-/static
 .DS_Store
-/JSON_FILES/Shows/*
 
 
 # added 7/8/2018
-/JSON_FILES/*
-/JSON_FILES/All_Shows/*
-API_Call_Time_Shelf_File.*
-/db/*
-errorInfo.txt
+
 
 # added from https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
